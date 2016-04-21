@@ -18,7 +18,7 @@ public class Quiz extends JFrame{
 		{"24","32","36","64"},
 		{"1935","1945","1955","1965"},
 		{"Earth","Jupiter","Mars","Uranus"},
-		{"Thomas Edison","Louis Pasteur","Alexandra Fleming","George Orwell"},
+		{"Thomas Edison","Louis Pasteur","Alexander Fleming","George Orwell"},
 		{"True","False"},
 		{"True","False"},
 		{"Fire","Darkness","Wind","Spiders"},
@@ -29,7 +29,7 @@ public class Quiz extends JFrame{
 		{"Slovakia","Ukraine","Hungary","Russia"},
 		{"True","False"},
 		{"Britney Spears","Scarlett Johansson","Mila Kunis","Angelina Jolie"},
-		{"Koby Star","Chris Hemsworth","Toby Stark","Tony Jenkins"},
+		{"Steve Rogers","Chris Hemsworth","Tony Stark","Toby Jenkins"},
 		{"Labrosse","Orleans","Sandillon","Attray"},
 	};
 	
