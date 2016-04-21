@@ -4,7 +4,9 @@ A simple quiz(trivia) game with multiple choices given.
 * Can keep track and show you the summary of your answers.
 * Uses swing frames for displaying datas and lists for storing questions & answers.
 
-![Java Swing Quiz Game](http://ufukozdogan.com/wp-content/uploads/2016/04/quizgame.png "Java Swing Quiz Game")
+![Java Swing Quiz Game](http://ufukozdogan.com/wp-content/uploads/2016/04/quiz-game.png "Java Swing Quiz Game")
+
+![Java Swing Quiz Game](http://ufukozdogan.com/wp-content/uploads/2016/04/summary.png "Java Swing Quiz Game")
 
 Modified from [Arend Peter Teaches's Youtube Video](https://www.youtube.com/watch?v=uUPRFWhTx3A)
 
