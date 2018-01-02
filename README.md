@@ -4,10 +4,9 @@ A simple quiz(trivia) game with multiple choices given.
 * Can keep track and show you the summary of your answers.
 * Uses swing frames for displaying datas and lists for storing questions & answers.
 
-### Edit Beyond Time
-* This application is outdated, has really ugly graphics and a really slow algorithm. You've been warned.
+### Edit Beyond Time: This application is outdated, has really ugly graphics and a really slow algorithm. You've been warned.
 
-##Sample Screenshots
+## Sample Screenshots
 
 ![Java Swing Quiz Game](https://i.hizliresim.com/1G9Od1.png "Java Swing Quiz Game")
 
