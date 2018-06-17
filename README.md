@@ -14,7 +14,7 @@ Question Screen
 
 Result Screen
 
-![Java Swing Quiz Game](https://i.hizliresim.com/LOJ53J.png "Java Swing Quiz Game")
+![Java Swing Quiz Game](http://i.hizliresim.com/LD4v5o.png "Java Swing Quiz Game")
 
 Modified from [Arend Peter Teaches's Youtube Video](https://www.youtube.com/watch?v=uUPRFWhTx3A)
 
